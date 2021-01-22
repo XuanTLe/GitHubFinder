@@ -4,4 +4,4 @@ A responsive web app that allows a person to find any GitHub user. The person ca
 Utilized GitHub API key (client id and client secret) though OAuth Application.
 Used: JavaScript, CSS/Bootstrap, HTML. 
 
-Link to this web app:
+Link to this web app: 
